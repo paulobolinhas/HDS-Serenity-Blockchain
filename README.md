@@ -1,4 +1,4 @@
-# HDSLedger IBFT Blockchain
+# HDSLedger
 
 ## Introduction
 
